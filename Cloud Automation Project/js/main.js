@@ -162,7 +162,7 @@ $(document).ready(function(){
             method: 'POST',
             headers: {
               'Content-Type': 'application/x-www-form-urlencoded',
-              'Authorization' : 'Basic N2xoZzhjNWtocHZlaW5rc2EydHRlYWo5bGk6dThwcHN2MnM4ZzltbzJkNGpjbzg2MHV0dTZsMnRrM2FkaGdwcHU3YmJiYjFxdGZlZ2M4'
+              'Authorization' : ''
             },
             data: {
               grant_type: 'authorization_code',
